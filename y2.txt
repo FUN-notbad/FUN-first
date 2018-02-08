@@ -1,3 +1,8 @@
 hello nihao
 
 second day work
+
+BUG  haole
+
+second day work successful
+
